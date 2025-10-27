@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Johnny  
 ### Aspiring Machine Learning & Deep Learning Engineer 🚀
 
-Welcome to my GitHub! I'm on a journey to master Machine Learning and eventually dive deep into Deep Learning, the cutting edge of AI that everyone says is the "badass" part of the field 😎.
+Welcome to my GitHub! I'm on a journey to master Machine Learning and eventually dive deep into Deep Learning😎.
 
 ---
 
